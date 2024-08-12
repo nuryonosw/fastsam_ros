@@ -20,7 +20,7 @@ $ cd fastsam_ros
 $ docker compose build
 $ docker compose up
 ```
-
+## Don't forget about the weights folder inside the fastsam_ros package
 ## Running inside a namespace
 
 You can use `docker compose run` to set the `ROS_NAMESPACE` environment variable:
